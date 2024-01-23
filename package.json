@@ -1,0 +1,15 @@
+{
+  "name": "@artem.pustoutov/test-npm-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib",
+  "types": "lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "tsc -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
